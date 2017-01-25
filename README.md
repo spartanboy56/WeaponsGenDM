@@ -1,5 +1,5 @@
 # WeaponsGenDM
 
-#This is a readme file because Topher yelled at me.
+#This was a project done for a class.
 
-#This is a Weapon generator used in the DicemasterJ Repo.
+#It was originally going to be used in a now abandoned slack chat bot. 
